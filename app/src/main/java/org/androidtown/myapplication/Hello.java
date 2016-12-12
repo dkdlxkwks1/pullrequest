@@ -18,6 +18,8 @@ public class Hello extends AppCompatActivity {
 
         String str;
 
+        int a;
+
         final EditText editText = (EditText)findViewById(R.id.editText);
 
         Button button = (Button)findViewById(R.id.button2);
